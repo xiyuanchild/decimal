@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/shopspring/decimal.png?branch=master)](https://travis-ci.org/shopspring/decimal) [![GoDoc](https://godoc.org/github.com/shopspring/decimal?status.svg)](https://godoc.org/github.com/shopspring/decimal) [![Go Report Card](https://goreportcard.com/badge/github.com/shopspring/decimal)](https://goreportcard.com/report/github.com/shopspring/decimal)
 
-Arbitrary-precision fixed-point decimal numbers in go.
+golang的decimal工具。Arbitrary-precision fixed-point decimal numbers in go.
 
 NOTE: can "only" represent numbers with a maximum of 2^31 digits after the decimal point.
 
